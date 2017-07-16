@@ -1,2 +1,2 @@
-# LVS.Training.Android.RecyclerView.Reverse
-Training project with RecyclerView. Reverse the ordering of items and convert a vertical list into a horizontal list.
+# LVS.Training.Android.RecyclerView.GridAndSpan
+Traning project showing RecyclerView using GridLayoutManager and SpanSizeLookup to change column spans
